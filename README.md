@@ -1,8 +1,5 @@
-### Error Fix ->
+### How to Use
 
-#### While testing the trained models you might face these ->
+- **First, you need to train the model on Google Colab to generate the `.keras` model files for testing.**
 
-- #### When running code on google colab
-    ![alt text](./img/image.png)
-
-    fix
+To be completed soon...

@@ -43,7 +43,7 @@ def create_annotated_image(input_path, output_path, species_name, confidence):
     
     # Use a font (adjust path to a local TTF font file)
     try:
-        font = ImageFont.truetype("arial.ttf", 40)  # Example font; replace with your font path
+        font = ImageFont.truetype("arial.ttf", 20)  # Example font; replace with your font path
     except:
         font = ImageFont.load_default()
     
